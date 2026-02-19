@@ -31,7 +31,7 @@ export default class extends mainViewClass {
             <h1>To Do List Application</h1>
           </div>
           <div class="header-link">
-            <p>View <a href="https://github.com/Mentor-Friends/Freeschema-Frontend" target="_blank">github</a> for more</p>
+            <p>View <a href="https://github.com/mzndnes/ToDo" target="_blank">github</a> for more</p>
           </div>
         </div>
 
